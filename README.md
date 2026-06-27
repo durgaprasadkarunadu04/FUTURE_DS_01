@@ -24,7 +24,7 @@ Product Name, Sales, Profit, Quantity, Region, Segment, and more
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](SuperstoreDashboard.jpg)
+![Dashboard](Superstore_Dashboard.jpg)
 
 ---
 
