@@ -42,7 +42,7 @@ Product Name, Sales, Profit, Quantity, Region, Segment, and more
 ## 📂 Files in this Repository
 | File | Description |
 |------|-------------|
-| `analysis.py` | Python script for data cleaning and EDA |
+| `Data Cleaning using Python.ipynb` | Python notebook for data cleaning and EDA |
 | `cleaned_superstore.csv` | Cleaned and processed dataset |
 | `dashboard.png` | Power BI dashboard screenshot |
 
